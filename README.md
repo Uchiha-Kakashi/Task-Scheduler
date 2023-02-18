@@ -1,5 +1,5 @@
 # Task-Scheduler
-This is a flask application that lets you add and schedule different tasks along with the description.
+An application that lets you add and schedule different tasks along with the description.
 Will also automatically show if the task is missed due to the deadline has been passed.
 The completed tasks history can also be viewed
 
